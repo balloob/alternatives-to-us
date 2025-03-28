@@ -60,6 +60,7 @@ This list is a **community-driven effort** and we encourage:
 - [Music Streaming](#music-streaming)
 - [AI Chatbots](#ai-chatbots)
 - [Maps/Navigation](#mapsnavigation)
+- [Smart Home](#smart-home)
 - [Gaming Platforms/Steam Alternatives](#gaming-platformssteam-alternatives)
 - [More EU-Based Alternatives & Resources](#more-eu-based-alternatives--resources)  ← **(NEW SECTION!)**
 - [Contributions](#contributions)
@@ -181,6 +182,9 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **OpenStreetMap** 🌐: A community-driven, open-source mapping platform.  Provides highly customisable maps and is used by many third-party apps. [Website](https://www.openstreetmap.org)
 - **Here WeGo** 🇩🇪: Offers free navigation with offline maps and real-time traffic updates.  
   Great for driving, cycling, and walking. [Website](https://wego.here.com)
+
+## Smart Home
+- **Home Assistant** 🇨🇭: Open source smart home platform that puts local control and privacy first. [Website](https://www.home-assistant.io)
 
 ## Gaming Platforms/Steam Alternatives
 - **GOG** 🇵🇱: DRM-free gaming, great for classics. [Website](https://gog.com)
